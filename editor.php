@@ -46,7 +46,7 @@
     </form>
   </div>
 
-  <div class="d-flex justify-content-evenly fixed-bottom bg-primary text-light">
+  <!-- <div class="d-flex justify-content-evenly fixed-bottom bg-primary text-light">
     <div class="p-2">
       <a href="index.php" class="nav-link">
         <i class="fa fa-file"></i>
@@ -62,7 +62,7 @@
         <i class="fa fa-user"></i>
       </a>
     </div>
-  </div>
+  </div> -->
   <script src="//cdn.ckeditor.com/4.6.2/standard/ckeditor.js"></script>
   <script src="ckeditor/ckeditor.js"></script>
   <script>
